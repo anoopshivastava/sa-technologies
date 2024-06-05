@@ -1,0 +1,47 @@
+.wrapper{
+  max-width: 500px;
+  padding:20px;
+  background-color: #fff;
+  box-shadow: 0 0 5px #ccc;
+  width:100%;
+  margin: 20px auto;
+}
+h1{
+  color:#000;
+  font-weight: 700;
+  font-size: 20px;
+  margin:0 0 20px;
+  text-align: center;
+}
+.question-wrapper{
+
+}
+.question-wrapper h2{
+  color:#000;
+  font-weight: 700;
+  font-size: 16px;
+  margin:0 0 20px;
+  text-align: center;
+}
+.btn-wrapper, .result-wrapper{
+  text-align: center;
+}
+ .btn-wrapper button, .result-wrapper button{
+margin:0 10px;
+padding:10px 20px;
+background-color: #000;
+color:#fff;
+border:1px solid #000;
+  font-weight: 400;
+  font-size: 14px;
+  cursor: pointer;
+  
+}
+
+.result-wrapper p {
+  font-weight: 400;
+  font-size: 14px;
+  color:#000;
+  text-align: center;
+  margin:0 0 20px
+}
